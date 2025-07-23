@@ -1,1 +1,0 @@
-CNN_Prediction_classification/placeholder.txt
